@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/flaneur-tv/tusd.png?label=ready&title=Ready)](https://waffle.io/flaneur-tv/tusd)
+[![Stories in Ready](https://badge.waffle.io/flaneur-tv/tusd.png?label=ready&title=Ready)](https://waffle.io/flaneur-tv/tusd)
 # tusd
 
 <img alt="Tus logo" src="https://github.com/tus/tus.io/blob/master/assets/img/tus1.png?raw=true" width="30%" align="right" />
